@@ -1,3 +1,10 @@
+<?php
+
+// the end of footer in php 
+ob_start();
+
+session_start();
+?>
 <!DOCTYPE html>
     <html lang="ar" dir="rtl">
       <head>
