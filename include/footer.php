@@ -8,8 +8,4 @@
 
   </body>
 </html>
-<?php
 
-// the end of footer in php 
-ob_end_flush();
-?>
